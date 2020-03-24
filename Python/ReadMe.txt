@@ -1,1 +1,1 @@
-Join our webinars to get details on thies lessons
+Join our webinars to get details on thiese lessons
