@@ -5,7 +5,7 @@ score = 0
 while feeling_brave:
     ghost_door = randint(1,3)
     print("Three doors ahead...")
-    print("There's a gost behind one.")
+    print("There's a ghost behind one.")
     print("Which door do you open?")
     door = input("1, 2 or 3?    ")
     door_num = int(door)
